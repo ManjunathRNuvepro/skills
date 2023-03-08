@@ -1,0 +1,58 @@
+{
+  "MetaData": {
+    "SchemaVersion": "1.0",
+    "Id": "22B01915-E1C5-4CEB-A8C3-9B03FD8203C6",
+    "Name": "Working with IAM PoliciesLab",
+    "DisplayName": "Working with IAM PoliciesLab",
+    "DescriptionPath": "description.html",
+    "Type": "assessment",
+    "CatalogName": "aws.Account"
+  },
+  "Contents": [
+    {
+      "Name": "chapter1",
+      "FilePath": "body1.html",
+      "FileType": "HTML"
+    },
+    {
+      "Name": "chapter2",
+      "FilePath": "body2.html",
+      "FileType": "HTML"
+    }
+  ],
+  "Evaluation": {
+    "ScriptUrl": "https://npqbj.cloudloka.com/python/evaluation.py",
+    "Params": {}
+  },
+  "Configuration": {
+    "EvaluationType": "Auto",
+    "DurationInMinutes": "240",
+    "GradeToPass": 60,
+    "TotalMarks": 55,
+    "PassingMarks": 33,
+    "TotalTestCases": 4
+  },
+  "TestCases": [
+    {
+      "Index": 0,
+      "TestCase": "Check the name of the linux VM ",
+      "Marks": 5,
+      "ExpectedResult": ""
+    },
+    {
+      "Index": 1,
+      "TestCase": "Check the location of VM",
+      "Marks": 10
+    },
+    {
+      "Index": 2,
+      "TestCase": "Check the size of the VM",
+      "Marks": 25
+    },
+    {
+      "index": 3,
+      "testCase": "Check the OS of the VM",
+      "marks": 15
+    }
+  ]
+}

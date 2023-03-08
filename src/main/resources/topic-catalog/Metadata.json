@@ -1,0 +1,48 @@
+{
+    "MetaData": {
+        "SchemaVersion": "1.0",
+        "TopicId": "22B01915-E1C5-4CEB-A8C3-9B03FD8203C6",
+        "VersionString": "1.0.0",
+        "Name": "Effective IAM Management for AWS Services",
+        "DisplayName": "Effective IAM Management for AWS Services",
+        "Description": "Effective IAM Management for AWS Services",
+        "State": "ACTIVE",
+        "Owner": "Administrator",
+        "Provider": "Nuvepro",
+        "Visibility": "PUBLIC",
+        "CloudPlatform": "AMAZON",
+        "Difficulty": "beginner",
+        "Type": "assessment"
+    },
+    "Tags": [
+        {
+            "Language": "MERN"
+        },
+        {
+            "Skill": "Full Stack Development"
+        }
+    ],
+    "Configuration": {},
+    "projects": [
+        {
+            "ProjectId": "22B01915-E1C5-4CEB-A8C3-9B03FD8203C6",
+            "index": 0,
+            "name": "Introduction to Users, Groups and PoliciesLab",
+            "description": "Introduction to Users, Groups and PoliciesLab",
+            "projectType": "assessment",
+            "folder": "project1"
+        },
+        {
+            "guid": "",
+            "index": 1,
+            "name": "Working with IAM PoliciesLab",
+            "description": "Working with IAM PoliciesLab",
+            "projectType": "assessment",
+            "folder": "project2"
+        }
+    ],
+    "Locale" :
+    [
+        "en_US"
+    ]
+}
